@@ -1,8 +1,8 @@
 # [ionified](http://ions.ionify.net)
 
-**ionified, implicit object notations indexed for identification + easy discovery**,
-simplifies maintaining, accessing + publishing
-[**ions**](https://github.com/ionify/about/blob/public/ion.md).
+**ionified, [implicit object notations](https://github.com/ionify/about/blob/public/ion.md)
+indexed for identification + easy discovery**, simplifies maintaining,
+accessing + publishing [**ions**](https://github.com/ionify/about/blob/public/ion.md).
 
 # 
 
