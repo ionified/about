@@ -23,9 +23,10 @@ accessing + publishing [**ions**](https://github.com/ionify/about/blob/public/io
 
 #### whimsy
 
-+ [**['~ . ~']&nbsp;&nbsp;&nbsp; : aie
++ [**['~ . ~']&nbsp;&nbsp;&nbsp; : ale
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  :** animated ion emoji](https://rawgit.com/ionify/jems/public/animated.logo/)
+  :**](https://rawgit.com/ionify/jems/public/animated.logo/)
+  animated [literal-ion](https://github.com/ionify/about/blob/public/ion.md) emoji
 
 # 
 
