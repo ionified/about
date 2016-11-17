@@ -19,11 +19,11 @@ clone + [even create](https://github.com/organizations/ionified/repositories/new
 
 
 + **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni
-  enjoys natural interaction](https://rawgit.com/ionified/jeni-ions.iskitz.net/public/)**
+  enjoys natural interaction](https://github.com/ionified/jeni-ions.iskitz.net)**
 
 
 + [**あかちゃん &nbsp; &nbsp; akachann,**
-  a japanese naming app](https://rawgit.com/ionified/akachann-ions.iskitz.net/public/)
+  a japanese naming app](https://github.com/ionified/akachann-ions.iskitz.net)
 
 # 
 
