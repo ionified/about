@@ -1,36 +1,33 @@
 # [ionified](http://ions.ionify.net)
 
-**ionified, [implicit object notations](https://github.com/ionify/about/blob/public/ion.md)
-indexed for identification + easy discovery**, simplifies maintaining,
-accessing + publishing [**ions**](https://github.com/ionify/about/blob/public/ion.md).
+**ionified's** home to a growing number of **[ions](https://github.com/ionify/about/blob/public/ion.md)
+indexed for identification + easy discovery**. Here you can browse, share,
+clone + [even create](https://github.com/organizations/ionified/repositories/new)
+ [your own](https://github.com/ionify/about/blob/public/ion.md)!
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+**+["]'• ؈ •'["] &nbsp; < &nbsp; "try these!"**
 
 # 
 
-#### apps
++ [**&nbsp; わかった &nbsp; &nbsp; wakatta,**
+  a japanese language-skills game](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/)
 
-+ [**わかった : wakatta
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  :** a japanese language-skills game](https://rawgit.com/ionify/jems/public/wakatta/)
 
-+ [**なまえ&nbsp;&nbsp;&nbsp;&nbsp; : akachann
-  &nbsp;:** a japanese name generator](https://rawgit.com/ionify/jems/public/namae/)
++ **[/d('~ . ~')b/ &nbsp;&nbsp; anemojii,](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/)
+  animated emoji [ions](https://github.com/ionify/about/blob/public/ion.md) **
 
-#### tools
 
-+ [**['ö . ö']&nbsp;&nbsp;&nbsp; : jeni
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  :** jeni enjoys natural interaction](https://rawgit.com/ionify/jems/public/jeni/)
++ **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni
+  enjoys natural interaction](https://rawgit.com/ionified/jeni-ions.iskitz.net/public/)**
 
-#### whimsy
 
-+ [**['~ . ~']&nbsp;&nbsp;&nbsp; : ale
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  :**](https://rawgit.com/ionify/jems/public/animated.logo/)
-  animated [literal-ion](https://github.com/ionify/about/blob/public/ion.md) emoji
++ [**あかちゃん &nbsp; akachann,**
+  a japanese naming app](https://rawgit.com/ionified/akachann-ions.iskitz.net/public/)
 
 # 
 
-**ions** are licensed
-  [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
-  unless otherwise stated.
+_**ions** are licensed_
+_ [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)_
+_ unless otherwise stated._
   [![ions](https://i.creativecommons.org/l/by-sa/4.0/80x15.png "Creative Commons License")](http://creativecommons.org/licenses/by-sa/4.0/)
