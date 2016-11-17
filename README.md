@@ -10,7 +10,7 @@ clone + [even create](https://github.com/organizations/ionified/repositories/new
 
 # 
 
-+ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; &nbsp; wakatta,**
++ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; &nbsp;wakatta,**
   a japanese language-skills game](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/)
 
 
