@@ -28,6 +28,6 @@ clone + [even create](https://github.com/organizations/ionified/repositories/new
 # 
 
 _**ions** are licensed_
-_ [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)_
-_ unless otherwise stated._
+_[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)_
+_unless otherwise stated._
   [![ions](https://i.creativecommons.org/l/by-sa/4.0/80x15.png "Creative Commons License")](http://creativecommons.org/licenses/by-sa/4.0/)
