@@ -10,7 +10,7 @@ clone + [even create](https://github.com/organizations/ionified/repositories/new
 
 # 
 
-+ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; &nbsp;wakatta,**
++ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta,**
   a japanese language-skills game](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/)
 
 
@@ -27,7 +27,7 @@ clone + [even create](https://github.com/organizations/ionified/repositories/new
 
 # 
 
-**ions** are licensed
-[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
-unless otherwise stated.
+_**ions** are licensed_
+_[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)_
+_unless otherwise stated._
   [![ions](https://i.creativecommons.org/l/by-sa/4.0/80x15.png "Creative Commons License")](http://creativecommons.org/licenses/by-sa/4.0/)
