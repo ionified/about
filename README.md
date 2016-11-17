@@ -15,7 +15,7 @@ clone + [even create](https://github.com/organizations/ionified/repositories/new
 
 
 + **[/d('~ . ~')b/ &nbsp;&nbsp; anemojii,](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/)
-  animated emoji [ions](https://github.com/ionify/about/blob/public/ion.md) **
+  animated emoji [ions](https://github.com/ionify/about/blob/public/ion.md)**
 
 
 + **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni
