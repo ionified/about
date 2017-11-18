@@ -1,12 +1,12 @@
 # [ionified](http://ions.ionify.net)
 
 **ionified** hosts **[ions](https://github.com/ionify/ionify/blob/public/info/ion.md)
-indexed for identification + easy discovery**. Here you can browse, share,
-clone + [even create](https://github.com/organizations/ionified/repositories/new)
+indexed for internet-enabled discovery**. Here you can browse, share,
+clone and [create](https://github.com/organizations/ionified/repositories/new)
  [your own](https://github.com/ionify/ionify/blob/public/info/ion.md)!
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**+["]'• ؈ •'["] &nbsp; < &nbsp; "try these!"**
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+**["]'• ؈ •'["] &nbsp; < &nbsp; / try these! /**
 
 #
 
