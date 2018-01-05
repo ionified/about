@@ -1,9 +1,9 @@
 # [ionified](http://ions.ionify.net)
 
-**ionified** hosts **[ions](https://github.com/ionify/ionify/blob/public/info/ion.md)
+**ionified** hosts **[ions](https://github.com/ionify/about/blob/public/ions/ion.md)
 indexed for internet-enabled discovery**. Here you can browse, share,
 clone and [create](https://github.com/organizations/ionified/repositories/new)
- [your own](https://github.com/ionify/ionify/blob/public/info/ion.md)!
+ [your own](https://github.com/ionify/about/blob/public/ions/ion.md)!
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 **["]'• ؈ •'["] &nbsp; < &nbsp; / try these! /**
@@ -15,7 +15,7 @@ clone and [create](https://github.com/organizations/ionified/repositories/new)
 
 
 + **[/d('~ . ~')b/ &nbsp; anemojii,](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/)
-  animated emoji [ions](https://github.com/ionify/ionify/blob/public/info/ion.md)**
+  animated emoji [ions](https://github.com/ionify/about/blob/public/ions/ion.md)**
 
 
 + **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni
