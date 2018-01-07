@@ -1,25 +1,25 @@
-# [ionified](http://ions.ionify.net)
+# [ionified](http://ionified.net)
 
 **ionified** hosts **[ions](https://github.com/ionify/about/blob/public/ions/ion.md)
-indexed for internet-enabled discovery**. Here you can browse, share,
-clone and [create](https://github.com/organizations/ionified/repositories/new)
- [your own](https://github.com/ionify/about/blob/public/ions/ion.md)!
+indexed for internet-enabled discovery**. Browse, share, clone and
+[create](https://github.com/organizations/ionified/repositories/new)
+your own right here.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 **["]'• ؈ •'["] &nbsp; < &nbsp; / try these! /**
 
 #
 
-+ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta,**
-  a japanese language-skills game](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/)
++ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta**](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/),
+  a japanese language-skills game
 
 
-+ **[/d('~ . ~')b/ &nbsp; anemojii,](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/)
++ **[/d('~ . ~')b/ &nbsp; anemojii](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/),
   animated emoji [ions](https://github.com/ionify/about/blob/public/ions/ion.md)**
 
 
-+ **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni
-  enjoys natural interaction](https://github.com/ionified/jeni-ions.iskitz.net)**
++ **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni](https://github.com/ionified/jeni-ions.iskitz.net),
+  jeni enables natural interaction**
 
 #
 
