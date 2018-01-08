@@ -10,16 +10,16 @@ your own right here.
 
 #
 
-+ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta**](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/),
++ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta**](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/):
   a japanese language-skills game
 
 
-+ **[/d('~ . ~')b/ &nbsp; anemojii](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/),
-  animated emoji [ions](https://github.com/ionify/about/blob/public/ions/ion.md)**
++ **[/d('~ . ~')b/ &nbsp; anemojii](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/):
+  animated emoji ions**
 
 
-+ **&nbsp;&nbsp;[['~ ؈ ~'] &nbsp; &nbsp; &nbsp; jeni](https://github.com/ionified/jeni-ions.iskitz.net),
-  jeni enables natural interaction**
++ **&nbsp;&nbsp;&nbsp;[['~ ؈ ~'] &nbsp;&nbsp; &nbsp; jeni](https://github.com/ionified/jeni-ions.iskitz.net)
+  enables natural interaction**
 
 #
 
