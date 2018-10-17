@@ -10,11 +10,11 @@ your own right here.
 
 #
 
-+ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta**](https://rawgit.com/ionified/wakatta-ions.iskitz.net/public/):
++ [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta**](https://wakatta.glitch.me/):
   a japanese language-skills game
 
 
-+ **[/d('~ . ~')b/ &nbsp; anemojii](https://rawgit.com/ionified/anemojii-ions.iskitz.net/public/):
++ **[/d('~ . ~')b/ &nbsp; anemojii](https://anemojii.glitch.me/):
   animated emoji ions**
 
 
