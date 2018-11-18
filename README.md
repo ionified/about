@@ -1,7 +1,7 @@
 # [ionified](http://ionified.net)
 
 **ionified** hosts **[ions](https://github.com/ionify/about/blob/public/ions/ion.md)
-indexed for internet-enabled discovery**. Browse, share, clone and
+implemented for internet-enabled discovery**. Browse, share, clone and
 [create](https://github.com/organizations/ionified/repositories/new)
 your own right here.
 
