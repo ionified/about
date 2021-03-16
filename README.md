@@ -1,18 +1,17 @@
 # [ionified](http://ionified.net)
 
-**ionified** hosts **[ions](https://ion.ionify.net/)
-implemented for internet-enabled discovery**. Browse, share, clone &
+**ionified** is a directory of **[ions](https://ion.ionify.net/)
+indexed for internet-enabled discovery**. Browse, share, clone &
 [create](https://github.com/organizations/ionified/repositories/new)
-your own right here.
+your own right here
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**["]'• ؈ •'["] &nbsp; < &nbsp; / try these! /**
+**["]'• ؈ •'["] &nbsp; < &nbsp; /try these!/**
 
 #
 
 + [**&nbsp; わかった &nbsp; &nbsp; &nbsp; wakatta**](https://ionified.github.io/wakatta-ions.iskitz.net/):
-  a japanese language-skills game
-
+  a japanese-language-skills game
 
 + **[/d('~ . ~')b/ &nbsp; anemojii](https://ionified.github.io/anemojii-ions.iskitz.net/):
   animated emoji ions**
