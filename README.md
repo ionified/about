@@ -16,9 +16,6 @@ your own right here
 + **[/d('~ . ~')b/ &nbsp; anemojii](https://ionified.github.io/anemojii-ions.iskitz.net/):
   animated emoji ions**
 
-+ **&nbsp;&nbsp;&nbsp;[['~ ؈ ~'] &nbsp;&nbsp; &nbsp; jeni](https://github.com/ionified/jeni-ions.iskitz.net)
-  enables natural interaction**
-
 #
 
 _**ions** are licensed_
